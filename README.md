@@ -16,13 +16,13 @@
 
 ## Установка и запуск
 
-### 2. Установить зависимости
+### 1. Установить зависимости
 
 ```bash
 npm install
 ```
 
-### 3. Собрать apk файл с помощью expo
+### 2. Собрать apk файл с помощью expo
 
 ```bash
 eas build --platform android --profile preview
